@@ -1,0 +1,5 @@
+{
+    "FirstStreamKey": "/super-secret-first-key",
+    "SecondStreamKey": "/super-secret-second-key",
+    "OutputStreamURL": "rtmp://amsterdam.restream.io/super-secret-stream-key"
+}
