@@ -29,8 +29,8 @@ The program uses a `config.json` file to load settings. Here's a sample format:
   "OutputStreamURL": "rtmp://example.com/live/stream"
 }
 
-
-# Installation via Makefile
+````
+ Installation via Makefile
 
 This project includes a `Makefile` that automates the installation of the RTMP Stream Switcher as a `systemd` service on Linux.
 
